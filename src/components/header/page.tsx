@@ -15,8 +15,20 @@ const Header = () => {
       href: "/products",
     },
     {
+      name: "Complex Dashboard",
+      href: "/complex-dashboard",
+    },
+    {
       name: "About",
       href: "/about",
+    },
+    {
+      name: "Photo Feed",
+      href: "/photo-feed",
+    },
+    {
+      name: "Hello",
+      href: "/hello",
     },
   ];
   return (
